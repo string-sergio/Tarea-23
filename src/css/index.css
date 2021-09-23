@@ -1,0 +1,14 @@
+  
+body{
+    background: gray;
+    color: white;
+}
+
+
+
+
+.Datos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }    
